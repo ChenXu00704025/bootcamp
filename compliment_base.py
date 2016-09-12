@@ -47,5 +47,5 @@ def reverse_complement(seq, material='DNA'):
     return rev_seq
 
 
-
+print('some changes')
 #print(reverse_complement(seq,material='RNA'))
